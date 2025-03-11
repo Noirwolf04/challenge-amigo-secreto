@@ -1,10 +1,10 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
+    --color-primary: #0d012c;
+    --color-secondary: #8c11d9;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
+    --color-button: #fe2bcd;
     --color-button-hover: #e55720;
-    --color-text: #444444;
+    --color-text: #ffffff;
     --color-white: #FFFFFF;
 }
 
@@ -65,7 +65,7 @@ body {
     font-family: "Inter", serif;
     font-size: 36px;
     font-weight: 700;
-    color: var(--color-primary);
+    color: var(--color-button);
     margin: 10px 0;
     text-align: center;
 }
